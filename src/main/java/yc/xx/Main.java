@@ -7,5 +7,7 @@ public class Main {
 
         GetConnection get = new GetConnection();
         System.out.println(get.getConn());
+
+        System.out.println("从github上修改");
     }
 }
