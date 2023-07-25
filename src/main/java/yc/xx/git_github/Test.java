@@ -1,4 +1,4 @@
-package yc.xx;
+package yc.xx.git_github;
 
 public class Test {
     public static void main(String[] args) {

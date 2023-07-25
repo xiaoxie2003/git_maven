@@ -1,6 +1,6 @@
 import org.junit.Before;
 import org.junit.Test;
-import yc.xx.JiSuan;
+import yc.xx.git_github.JiSuan;
 
 public class TestMain {
     private JiSuan jiSuan;

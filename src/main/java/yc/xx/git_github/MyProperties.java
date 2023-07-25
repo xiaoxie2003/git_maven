@@ -1,4 +1,4 @@
-package yc.xx;
+package yc.xx.git_github;
 
 import java.io.IOException;
 import java.util.Properties;
